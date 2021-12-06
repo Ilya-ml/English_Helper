@@ -59,14 +59,14 @@ climate = "activist - активист\n"                   \
           "cave - пещера, грот\n"                   \
           "caviar - икра"
 
-books = "Вот список книг для твоего уровня:\n"                     \
+books = "Вот список книг для твоего уровня:\n"                      \
         "1)  «Mr. Bean In Town», John Escott\n"                     \
         "2)  «The Hound of the Baskervilles», Arthur Conan Doyle\n" \
-        "3)  «The Fisherman and His Soul», Oscar Wilde\n"            \
+        "3)  «The Fisherman and His Soul», Oscar Wilde\n"           \
         "4)  «Dracula», Bram Stoker\n"                              \
         "5)  «The Million Pound Bank Note», Mark Twain\n"           \
         "6)  «The Wonderful Wizard of Oz», Lyman Frank Baum\n"      \
-        "7)  «Winnie-the-Pooh», A. A. Milne\n"                     \
+        "7)  «Winnie-the-Pooh», A. A. Milne\n"                      \
         "8)  «Mary Poppins», P. L. Travers\n"                       \
         "9)  «Two Little Savages», E. T. Seton\n"                   \
         "10) «The Adventures of Tom Sawyer», M. Twain\n"
