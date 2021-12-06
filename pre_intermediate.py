@@ -1,60 +1,72 @@
-relax = "cartoon - Мультфильм\n"                           \
-        "movie - Фильм\n"                                  \
-        "circus - Цирк\n"                                  \
-        "composer - Композитор\n"                          \
-        "dream	 - Мечта\n"                                \
-        "daily routine - Ежедневная рутина\n"              \
-        "horror	 - Ужастик\n"                              \
-        "laughter - Смех\n"                                \
-        "novel	 - Роман\n"                                \
-        "story	 - История\n"                              \
-        "weather forecast - Прогноз погоды\n"              \
-        "thought - Мысль\n"                                \
-        "writer - Писатель\n"                              \
-        "access - Доступ\n"                                \
-        "account - Аккаунт\n"                              \
-        "adventure - Приключение\n"                        \
-        "affair - Страх\n"                                 \
-        "anniversary - Дело, интрига\n"                    \
-        "entertainment - Развлечение\n"                    \
-        "amusement	 - Веселье\n"                          \
-        "influence	 - Влияние\n"                          \
-        "attraction - Достопримечательность, аттракцион\n" \
-        "rock-climbing	 - Скалолазание\n"                 \
-        "cycling - Катание на велосипеде\n"                \
-        "number painting - Живопись по номерам\n"          \
-        "swimming pool - Бассейн\n"                        \
-        "yoga - Йога\n"                                    \
-        "coffee shop - Кофейня\n"                          \
-        "central park - Центральный парк\n"                \
-        "inspiration - Вдохновение"
+relax = "cartoon - мультфильм\n"                           \
+        "movie - фильм\n"                                  \
+        "circus - цирк\n"                                  \
+        "composer - композитор\n"                          \
+        "dream - мечта\n"                                  \
+        "daily routine - ежедневная рутина\n"              \
+        "horror - ужастик\n"                               \
+        "laughter - смех\n"                                \
+        "novel - роман\n"                                  \
+        "story - история\n"                                \
+        "weather forecast - прогноз погоды\n"              \
+        "thought - мысль\n"                                \
+        "writer - писатель\n"                              \
+        "access - доступ\n"                                \
+        "account - аккаунт\n"                              \
+        "adventure - приключение\n"                        \
+        "affair - страх\n"                                 \
+        "anniversary - дело, интрига\n"                    \
+        "entertainment - развлечение\n"                    \
+        "amusement - веселье\n"                            \
+        "influence - влияние\n"                            \
+        "attraction - достопримечательность, аттракцион\n" \
+        "rock-climbing - скалолазание\n"                   \
+        "cycling - катание на велосипеде\n"                \
+        "number painting - живопись по номерам\n"          \
+        "swimming pool - бассейн\n"                        \
+        "yoga - йога\n"                                    \
+        "coffee shop - кофейня\n"                          \
+        "central park - центральный парк\n"                \
+        "inspiration - вдохновение"
 
 
-climate = "cactivist - Активист\n"                  \
-          "pollution - Загрязнение\n"               \
-          "impurity - Примеси, загрязнение\n"       \
-          "algae - Водоросли\n"                     \
-          "Earth - Земля\n"                         \
-          "atmosphere - Атмосфера\n"                \
-          "environment - Окружающий мир\n"          \
-          "climate - Климат\n"                      \
-          "air - Воздух\n"                          \
-          "water reserve - Водные ресурсы\n"        \
-          "greenhouse effect - Парниковый эффект\n" \
-          "oxygen - Кислород\n"                     \
-          "explorer - Исследователь\n"              \
-          "investigation - Расследование\n"         \
-          "future - Будущее\n"                      \
-          "tropic forest - Тропический лес\n"       \
-          "humidity	 - Влажность, влага\n"          \
-          "flora - Флора\n"                         \
-          "wildlife - Дикая природа, животные\n"    \
-          "plastic waste - Пластиковые отходы\n"    \
-          "recycling - Переработка\n"               \
-          "hydrosphere - Гидросфера\n"              \
-          "background - Происхождение, фон\n"       \
-          "bank - Берег\n"                          \
-          "banner - Баннер, реклама\n"              \
-          "beast - Зверь, животное\n"               \
-          "cave - Пещера, грот\n"                   \
-          "caviar - Икра"
+climate = "activist - активист\n"                   \
+          "pollution - загрязнение\n"               \
+          "impurity - примеси, загрязнение\n"       \
+          "algae - водоросли\n"                     \
+          "Earth - земля\n"                         \
+          "atmosphere - атмосфера\n"                \
+          "environment - окружающий мир\n"          \
+          "climate - климат\n"                      \
+          "air - воздух\n"                          \
+          "water reserve - водные ресурсы\n"        \
+          "greenhouse effect - парниковый эффект\n" \
+          "oxygen - кислород\n"                     \
+          "explorer - исследователь\n"              \
+          "investigation - расследование\n"         \
+          "future - будущее\n"                      \
+          "tropic forest - тропический лес\n"       \
+          "humidity	 - влажность, влага\n"          \
+          "flora - флора\n"                         \
+          "wildlife - дикая природа, животные\n"    \
+          "plastic waste - пластиковые отходы\n"    \
+          "recycling - переработка\n"               \
+          "hydrosphere - гидросфера\n"              \
+          "background - происхождение, фон\n"       \
+          "bank - берег\n"                          \
+          "banner - баннер, реклама\n"              \
+          "beast - зверь, животное\n"               \
+          "cave - пещера, грот\n"                   \
+          "caviar - икра"
+
+books = "Вот список книг для твоего уровня:\n"                     \
+        "1)  «Mr. Bean In Town», John Escott\n"                     \
+        "2)  «The Hound of the Baskervilles», Arthur Conan Doyle\n" \
+        "3)  «The Fisherman and His Soul», Oscar Wilde\n"            \
+        "4)  «Dracula», Bram Stoker\n"                              \
+        "5)  «The Million Pound Bank Note», Mark Twain\n"           \
+        "6)  «The Wonderful Wizard of Oz», Lyman Frank Baum\n"      \
+        "7)  «Winnie-the-Pooh», A. A. Milne\n"                     \
+        "8)  «Mary Poppins», P. L. Travers\n"                       \
+        "9)  «Two Little Savages», E. T. Seton\n"                   \
+        "10) «The Adventures of Tom Sawyer», M. Twain\n"
